@@ -6,23 +6,20 @@ This Grasshopper tools help **YOU** to identify the position relations between P
 
 ## Example
 
-Point of Parking and Apartment Areas in Manila and London.
-![Manila's Point of Parking and Apartment Areas](https://user-images.githubusercontent.com/88922796/129514272-3c06e855-6b5b-48bb-865f-5ec3dc7ddef8.png)
-![D @FE)M3IQS($Z8`Y$S{8DI](https://user-images.githubusercontent.com/88922796/129522010-24e57276-75b4-4269-a021-ccb0fb553f63.png)
-
-The points show the distribution and extent of influence of the two areas.
-![The influence of two areas in Manila](https://user-images.githubusercontent.com/88922796/129514358-9beda775-4a5f-4065-af65-dd1cf8bda22a.png)
-![PK9 D6CU8CKEU969EUOUI~W](https://user-images.githubusercontent.com/88922796/129522058-64e6829e-1c7d-4d06-8c09-00e83a3c2e42.png)
-
-The distribution of rivers will affect residential areas and indirectly affect the distribution of small car parks
-![The river influence](https://user-images.githubusercontent.com/88922796/129514446-071a268a-1959-4a3a-a336-211b7657f911.png)
-![U56VF~ RK)RXD 82SUQOFIE](https://user-images.githubusercontent.com/88922796/129522091-b1dd7223-13ac-44b4-9b28-eab722632a40.png)
+When **YOU** enter the map into **File Path**, you need to bake the important information Caribous pulls out and enter the points and curves in the battery pack below. Rhino generates the texture of the city and shows where the parking area, bicycle parking area and residential area are located
+![_I51I9)3R9~XI2Y6QT09_YT](https://user-images.githubusercontent.com/88922796/130340935-a2f28ab9-18c7-4c93-9f09-521961d6f34d.png)
+![$8{FC0T`{A$}3%3H7VM}O07](https://user-images.githubusercontent.com/88922796/130340937-048affda-5164-49b6-9243-a4eb09e9ec15.png)
 
 ## Use
 
-- Step 1 Creating maps document from **OpenStreetMap**, then load the map file into Grasshopper.
-- Step 2 Check for **Parking**, **Apartment** and other research things in Caribous and check the keywords to show them
-- Step 3 Use **Gird Field**, **Voronoi** and other GH battery packs to demonstrate the location relationship of areas
+- Step 1 Creating maps document from **OpenStreetMap**, then load the map file into Grasshopper. Then check for **Parking**, **Apartment** and other research things in **Specify Features** and check the keywords to show them
+ ![SQI9OGWN`WY9DHZ6`PJH)}0](https://user-images.githubusercontent.com/88922796/130341173-a28923f5-e906-44e8-b8f6-b1c97fe25842.png)
+
+- Step 2 Bake out the desired points and curves and then identify them into the battery pack in the picture
+ ![{R1OA)6@0XU66M8U55(DCN6](https://user-images.githubusercontent.com/88922796/130341178-fefd1975-3816-46b2-96bd-7a053bcbd581.png)
+
+- Step 3 In the red area of the battery pack, right-click and select **Preview on** to display the results
+![S 3Q7O%_F@PMMHV7LLZT7AL](https://user-images.githubusercontent.com/88922796/130341181-827babc6-d56a-447d-88d7-2b2c9fc4eb18.png)
 
 ## Closest Point
 
