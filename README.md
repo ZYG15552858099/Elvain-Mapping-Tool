@@ -2,7 +2,9 @@
 
 ## Introduction
 
-V1.0 Elvain Tool helps users discover the changes in the number and area of parking areas in the city over time. It also visualizes changing numbers through bar charts on the UI Page.
+- Elvain Tool is still a Grasshopper definition, you don't need to install it, you just need to run it through Grasshopper.
+- Note: v1.0 Elvain Tool uses the plug-in Caribou. If you are using an older version, update it, or it may not work effectively.
+- v1.0 Elvain Tool helps users discover the changes in the number and area of parking areas in the city over time. It also visualizes changing numbers through bar charts on the UI Page.
 
 ## Example of Time Slider
 
