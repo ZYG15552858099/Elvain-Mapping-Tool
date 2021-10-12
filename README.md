@@ -18,4 +18,4 @@ If users want to change the display background in Rhino, they can do so here
 
 ![Y$ 0O{05T6A832RCFK$ )`R](https://user-images.githubusercontent.com/88922796/136970737-1617520b-135b-4848-abbf-254132375ee0.png)
 
-This link is an introduction to the previous version like [v0.9 Elvain Tool](https://github.com/ZYG15552858099/Elvain-Mapping-Tool/commit/bd4321adb5967154f0d3e4f5b6d8e5d1abb503de).[v2.0 Elvain Tool.zip](https://github.com/ZYG15552858099/Elvain-Mapping-Tool/files/7330615/v2.0.Elvain.Tool.zip)
+This link is an introduction to the previous version like [v0.9 Elvain Tool](https://github.com/ZYG15552858099/Elvain-Mapping-Tool/commit/bd4321adb5967154f0d3e4f5b6d8e5d1abb503de).
